@@ -26,7 +26,7 @@ h2 {
   line-height: 1.5;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -39,7 +39,7 @@ p {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 100px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -55,7 +55,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content {
