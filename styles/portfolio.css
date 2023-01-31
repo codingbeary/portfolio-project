@@ -99,15 +99,15 @@ p {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 70px 50px;
 }
 
 .logo {
-  max-height: 40px;
+  max-height: 80px;
 }
 
 nav {
-  padding: 20px 0;
+  padding: 20px 0 10px 0;
 }
 
 nav ul {
