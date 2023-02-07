@@ -214,11 +214,20 @@ footer .social-links a:hover {
     text-align: center;
     padding: 0px;
   }
+
+  .content h1 {
+    font-size: 34px;
+  }
   .project-description {
     padding: 0px;
     text-align: center;
   }
+
   footer .contact-box {
     padding: 30px;
+  }
+
+  footer .email-link {
+    font-size: 16px;
   }
 }
